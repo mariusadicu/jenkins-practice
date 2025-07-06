@@ -1,0 +1,3 @@
+For new Projects:
+    1. git init  ====> "initialize repository" in the source control section
+    2. git add.  ====> "+" symbol in the source control section
